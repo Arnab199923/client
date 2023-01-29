@@ -7,8 +7,8 @@ const Banner = () => {
         <div className="content">
             <div className="text">
                 <h1>Sales</h1>
-                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sit, asperiores enim excepturi quae nemo a rerum eum ipsum dolorum eligendi 
-                    quasi expedita, eius facilis iure inventore
+                <p>Lorem ipsum dolor, 
+                     Sit, asperiores enim excepturi quae nemo a rerum eum 
                      praesentium fugit minima magnam.
                      </p>
                      
